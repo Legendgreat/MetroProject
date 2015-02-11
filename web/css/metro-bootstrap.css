@@ -4808,6 +4808,9 @@ a {
 .metro .tile-group.seven {
   width: 910px;
 }
+.metro .tile-group .ten{
+    width:1300px;
+}
 .metro .tile-group:first-child {
   margin-left: 80px;
 }
