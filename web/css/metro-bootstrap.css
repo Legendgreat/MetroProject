@@ -1124,6 +1124,11 @@ a {
 .metro .container {
   margin: 0 auto;
 }
+.metro .container10x6{
+  width: 1290px !important;
+  height: 870px !important;
+  margin: 0 auto;
+}
 .metro .page {
   width: 100%;
   min-height: 100%;
